@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Landing Page</title>
+    <title>Recicla Cohab</title>
     <link rel="stylesheet" href="estilo.css">
 </head>
 
@@ -26,14 +26,13 @@
     </div>
     <div class="container">
         <p>O Recicla Cohab é um projeto que está sendo desenvolvido por mim (estudante do curso de Análise e
-            Desenvolvimento de Sistemas). Com o intuito de implementar o uso da tecnologia junto ao serviço de
-            reciclagem, o desenvolvedor do projeto pretende não só contribuir para um descarte ecológico de madeiras,
-            móveis
-            e afins, mas também facilitar a aquisição para aqueles que demostrarem algum interesse em adquirir parte
-            do marerial colocado à disposição. <br>Para esse projeto, além de uma página na internet, deverá ser
-            criado, também, um aplicativo; o que facilitará bastante a utilização de tal serviço. De início, apenas
-            a comunidade local terá acesso ao programa, porém, dependendo da demanda por parte dos usuários, o mesmo
-            poderá ser extendido junto a outras comunidades.</p>
+        Desenvolvimento de Sistemas). Com o intuito de implementar o uso da tecnologia junto ao serviço de
+        reciclagem, o desenvolvedor do projeto pretende não só contribuir para um descarte ecológico de madeiras,
+        móveis e afins, mas também facilitar a aquisição para aqueles que demostrarem algum interesse em adquirir 
+        parte do marerial colocado à disposição. <br>Para esse projeto, além de uma página na internet, deverá ser
+        criado, também, um aplicativo; o que facilitará bastante a utilização de tal serviço. De início, apenas
+        a comunidade local terá acesso ao programa, porém, dependendo da demanda por parte dos usuários, o mesmo
+        poderá ser extendido junto a outras comunidades.</p>
     </div>
 
 </body>
